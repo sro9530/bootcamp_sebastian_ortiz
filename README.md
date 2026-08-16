@@ -16,7 +16,7 @@
 
 ---
 
-# The Effects of Unemployment on Market Returns
+# Unemployment and Stock Market Returns
 **Stage:** Problem Framing & Scoping (Stage 01)
 ## Problem Statement
 - Publicly traded companies raise capital by selling shares to investors, while investors purchase those shares with the expectation of receiving a positive return. An individual's ability to invest in a company depends, at least in part, on the income from their employment. If, after immediate and short-term necessary expenses, an individual has cash to spare, then they may invest in the stock market. If greater employment and disposable income contribute to greater participation and demand in the stock market, then periods of stronger employment may be associated with stronger stock market performance.
