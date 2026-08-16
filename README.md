@@ -14,6 +14,8 @@
 - Keep project files organized and clearly named.
 - The project folder structure is set up in Stage 02.
 
+---
+
 # The Effects of Unemployment on Market Returns
 **Stage:** Problem Framing & Scoping (Stage 01)
 ## Problem Statement
